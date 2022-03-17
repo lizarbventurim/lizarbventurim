@@ -11,3 +11,4 @@
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 - Sou Analista de qualidade com bacharelado em Ciência da Computação com ênfase em engenharia de software.
+- Conta antiga do GitHub https://github.com/lizarbpacheco Infelizmente perdi o 2FA
