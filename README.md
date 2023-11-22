@@ -1,6 +1,6 @@
 ## Lizarb Oliveira Pacheco Venturim
 
-### QA Analisty
+### QA Engineer
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lizarbventurim&count_private=true&show_icons=true&theme=dracula)
 
@@ -14,4 +14,21 @@
 <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
-- Sou Analista de qualidade com bacharelado em Ciência da Computação com ênfase em engenharia de software.
+- Atuo como QA Engineer, com mais de 6 anos de experiência na área de software, sou focado em entregar excelência e qualidade em todos os projetos que participo. Minha paixão pela qualidade me levou a trabalhar em multinacionais, onde desempenhei um papel ativo na melhoria contínua do produto utilizando metodologias ágeis e SCRUM, frameworks em que possuo certificação.
+
+* Bacharel em Ciência da Computação pela Faculdade Pitágoras
+* Pós Graduando em Engenharia de Software com ênfase em Qualidade de Software
+
+ 
+Certificações:
+Yellow Belt - Six Sigma
+Scrum Fundamentals Certified
+
+Stack:
+Programming languages: Javascript, TypeScript 
+- Frameworks de teste: Cypress | Cucumber | Postman | Swagger
+- CI: Jenkins, Azure DevOPS
+- VCS: GIT
+- Bancos de dados: MySQL | SQLserver, MongoDB
+- OS: Mac OS | Linux | Windows
+- Metodologia ágil: Scrum | Kanban
