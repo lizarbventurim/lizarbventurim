@@ -15,9 +15,10 @@ Scrum Fundamentals Certified
 
 Stack:
 Programming languages: Javascript, TypeScript 
-- Frameworks de teste: Cypress | playwright |  Cucumber | Postman | Swagger
+- Frameworks de teste: Cypress | Playwright | Robot Framework |  Cucumber | Postman | Swagger
 - CI: Jenkins, Azure DevOPS
 - VCS: GIT
-- Bancos de dados: MySQL | SQLserver, MongoDB
+- Bancos de dados: MySQL | SQLserver | MongoDB
 - OS: Mac OS | Linux | Windows
 - Metodologia ágil: Scrum | Kanban
+- Plataformas: AWS, Azure, GCP
